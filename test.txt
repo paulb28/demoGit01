@@ -3,3 +3,7 @@ fichier test
 Intro
 
 Oui
+
+Non 
+
+Peut être
